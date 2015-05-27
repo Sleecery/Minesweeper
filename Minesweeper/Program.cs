@@ -15,6 +15,7 @@ namespace Minesweeper
             Console.WriteLine("rado");
             //
             Console.WriteLine("");
+            Console.WriteLine("Filo je pan");
         }
     }
 }
