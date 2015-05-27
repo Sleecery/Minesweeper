@@ -19,6 +19,7 @@ namespace Minesweeper
             //
             Console.WriteLine("Neni");
             Console.WriteLine("Caute Sraci!");
+            Console.WriteLine("daco daco daco");
         }
     }
 }
