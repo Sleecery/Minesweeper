@@ -11,6 +11,13 @@ namespace Minesweeper
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //
+            Console.WriteLine("rado");
+            //
+            Console.WriteLine("");
+            Console.WriteLine("Filo je pan");
+            //
+            Console.WriteLine("Rado je kral a to je vacsie ako pan!");
         }
     }
 }
