@@ -13,6 +13,8 @@ namespace Minesweeper
             Console.WriteLine("Hello World!");
             //
             Console.WriteLine("rado");
+            //
+            Console.WriteLine("");
         }
     }
 }
