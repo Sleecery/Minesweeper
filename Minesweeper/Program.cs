@@ -18,6 +18,7 @@ namespace Minesweeper
             Console.WriteLine("Filo je pan");
             //
             Console.WriteLine("Neni");
+            Console.WriteLine("Caute Sraci!");
         }
     }
 }
