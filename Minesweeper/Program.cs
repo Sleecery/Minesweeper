@@ -21,5 +21,8 @@ namespace Minesweeper
             Console.WriteLine("Caute Sraci!");
             Console.WriteLine("daco daco daco");
         }
+
+
+
     }
 }
